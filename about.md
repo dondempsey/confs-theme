@@ -3,5 +3,5 @@ title: About
 permalink: /about/
 ---
 
-####Don Dempsey
+Don Dempsey 
 ddempsey@cabrini.edu
